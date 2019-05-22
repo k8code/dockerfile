@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.14.1
+FROM k8s.gcr.io/kube-apiserver:v1.14.2
 MAINTAINER imicode <imicode@126.com>
